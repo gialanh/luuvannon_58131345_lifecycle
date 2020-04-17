@@ -1,0 +1,8 @@
+câu 4 :  
+ - người sử dụng bấm nút back :onpause và ondestroy được gọi
+- khi mở lại ứng dụng :oncreate và onresume được gọi
+câu 5: 
+  -người sử dụng bấm nút home : onpause và onstop được gọi
+ -khi mở lại ứng dụng : onrestart và on resume được gọi 
+câu 6:
+  -thực hiện phương thức onpause, vì phương thức này dùng để ghi các thay đổi chưa được lưu
